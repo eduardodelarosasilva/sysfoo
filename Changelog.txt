@@ -1,1 +1,2 @@
 CH01
+CH02: Validando flujo de PR desde la Interfaz Web
